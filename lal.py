@@ -15,7 +15,7 @@ class ILYMod(loader.Module):
             message = await message.respond("dima")
 
         arr = ["❤️", "🧡", "💛", "💚", "💙", "💜", "🤎", "🖤", "💖"]
-        h = "🎁"
+        h = "🤍"
         first_block = ""
         for i in "".join(
             [
