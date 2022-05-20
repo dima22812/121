@@ -203,7 +203,7 @@ class ILYMod(loader.Module):
         )
         await message.edit(fourth)
         for _ in range(47):
-            fourth = fourth.replace("🤍", "💜", 1)
+            fourth = fourth.replace("🤍", "❤️", 1)
             await message.edit(fourth)
             await sleep(0.07)
         for i in range(8):
